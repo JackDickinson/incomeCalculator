@@ -1,3 +1,4 @@
+//Created By Jack Dickinson
 
 var incomeInput = document.getElementById("incomeInput");
 
