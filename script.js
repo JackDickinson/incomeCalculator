@@ -1,19 +1,7 @@
 
 var incomeInput = document.getElementById("incomeInput");
 
-var salary;
-
-var monthlyPay;
-
-var weeklyPay;
-
-var dailyPay;
-
-var hourlyPay;
-
-var minutePay;
-
-var secondPay;
+var salary,monthlyPay,weeklyPay,dailyPay,hourlyPay,minutePay,secondPay;
 
 
 incomeInput.addEventListener("keyup",function(){
