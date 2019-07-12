@@ -1,0 +1,39 @@
+body {
+
+    background-color: #f2f2f2;
+}
+
+h1 {
+
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 300;
+    font-size:5vh;
+
+}
+
+h2 {
+
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size:2.5vh;
+
+}
+
+p {
+
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size:1.5vh;
+
+}
+
+#container {
+
+    background-color: white;
+    border:1px solid black;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    width:30%;
+    margin-top:25vh;
+}
